@@ -1,7 +1,7 @@
 # manuscript-starter-kit
  A cookie-cutter repository for starting bioinformatics manuscripts with a pre-built structure and template files.
 
-This is a minimal repo for me to pull from to streamline paper creation. It's focus is on forcing good structure in the manuscript (I suck at titles, abstract and results, so I follow (this layout)[https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619], but apparently so do most of us) and stopping me from recreating code and figures I use a lot from scratch (something I do far to much). It's for me, is layed out for my authorships, figure preferences etc., and I haven't tried to make it helpful for everyone, but maybe it will be somewhat.
+This is a minimal repo for me to pull from to streamline paper creation. It's focus is on forcing good structure in the manuscript (I suck at titles, abstract and results, so I follow [this layout](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619), but apparently so do most of us) and stopping me from recreating code and figures I use a lot from scratch (something I do far to much). It's for me, is layed out for my authorships, figure preferences etc., and I haven't tried to make it helpful for everyone, but maybe it will be somewhat.
 
 ## Structure
 - **manuscript/**

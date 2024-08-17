@@ -18,7 +18,7 @@ This is a minimal repo for me to pull from to streamline paper creation. It's fo
   - **figures/**: Store your generated figures here
 
 ## Instructions
-1. Clone the repository: `git clone https://github.com/yourusername/manuscript-starter-kit.git`
+1. Clone the repository: `git clone https://github.com/seafloor/manuscript-starter-kit.git`
 2. Replace the template files with your content.
 3. Use the Jupyter notebook for plotting and analysis.
 4. Run tests to ensure your functions work as expected.
